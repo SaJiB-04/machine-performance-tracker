@@ -1,0 +1,15 @@
+
+=== Machine Performance Report ===
+
+ Machine 1:
+  Total operation hours : 42.00
+  Total Downtime        : 19.60
+  Total Defects         : 15
+  Efficiency            : 68.18
+
+
+ Machine 2:
+  Total operation hours : 28.50
+  Total Downtime        : 29.00
+  Total Defects         : 15
+  Efficiency            : 49.57
