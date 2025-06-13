@@ -1,26 +1,18 @@
-# Machine Performance Tracker 🛠
+# 🛠️ Machine Performance Tracker
 
-This is a Python mini-project that collects and analyzes weekly performance data for multiple machines. It calculates total operation hours, downtime, defects, and efficiency, then generates a report.
+This mini Python project collects and analyzes weekly machine performance data:
+- 📊 Operation hours
+- ⏱️ Downtime hours
+- ❌ Defects
+- 📈 Calculates efficiency per machine
 
-## Features
-- User input for 7 days of data per machine
-- Calculates:
-  - Total operation hours
-  - Total downtime hours
-  - Total defects
-  - Efficiency (%)
-- Saves a report as a `.txt` file
+### ✅ Features
+- Modular Python code using functions
+- Saves performance summary report to `.txt`
+- Stores raw daily data to `.csv`
+- Input validation for clean data collection
 
-## Future Plans
-- Add data visualization (using matplotlib)
-- Support importing data from CSV files
+### 🔧 How to Run
 
-## How to Run
-1. Open `performance_tracker.py` in a Python environment
-2. Follow prompts to enter data
-3. Check `performance_report.txt` for the summary
-
----
-
-📁 Developed as part of my learning journey for higher studies in Industrial and Production Engineering.
-
+```bash
+python performance_tracker.py
