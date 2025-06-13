@@ -15,4 +15,4 @@ This mini Python project collects and analyzes weekly machine performance data:
 ### 🔧 How to Run
 
 ```bash
-python performance_tracker.py
+python performance_tracker2.py
